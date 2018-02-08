@@ -1,0 +1,8 @@
+{
+  "name": "cc-google-charts",
+  "description": "Qlik custom component delivering google charts library.",
+  "type": "component",
+  "version": "0.1.0",  
+  "author": "aaz",
+  "dependencies":{}
+}
